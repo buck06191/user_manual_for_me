@@ -1,81 +1,74 @@
-# User Manual For Stephen Geller
+# User Manual For Josh Buckland
 
 ###### Inspired by [this repo by Gidi Morris](https://github.com/gmmorris/user_manual_for_me) and [this article by Cassie Robinson](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694).
 
 ### Hi!
-#### I'm Stephen. Here is a user manual for working with me.
+#### I'm Josh. Here is a user manual for working with me.
 
 ## Conditions I like to work in
 
-I work best in environments where I am surrounded by the behaviour I'd like to replicate. I am a copycat and a social chameleon, and I get good work done when surrounded by people doing the same.
+I like to work in a social environment, where people are able to ask questions and work together. Having said that, I'm also a big fan of independent working and being able to "knuckle down" and get into a project or problem on my own for a little bit before resurfacing to discuss and collaborate.
 
-I really enjoy working in environments where everyone is comfortable speaking openly and their words are heard and respected. Something that helps with this is [Occupy Hand Signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals), which I've used before and endorse.
+Regular breaks for cups of tea or short walks help me to regroup and collect my thoughts, meaning that when I come back I'm back to full productivity rather than being burnt out.
 
 ## The times/hours I like to work
 
-I'm learning to be more of a morning person, but for now I aim to arrive at the office (by bike or tube) between 9:15am and 10am and leave between 5:15pm and 6pm.
+I never realised I was a morning person until I started getting up at respectable hours, so I now try to get in to the office before 9:15 and then will be around until 17:15-17:30. (These hours are me preparing to have a dog in my life...)
 
-Since I've started doing intermittent fasting (help), I aim to have lunch at 12:30pm on the dot...but will actually have it somewhere between 12pm and 1pm.
+I try not to look at or answer e-mails outside of working hours so that I can maintain a good work/life balance.
 
 ## The best ways to communicate with me
 
-If I'm stuck into work - most noticeably with headphones on - I always appreciate you messaging me on the common communication platform of choice (Slack, GChat) before approaching me, unless if it's an urgent request. It allows me to handle interactions at my own pace, which I appreciate.
+If I'm deep in a code hole, probably with my noise-cancelling headphones on, it's worth dropping me a message if you want to chat, mainly so I can drag myself out of the hole and re-adjust which I'll really appreicate. If it's an urgent request or I've forgotten about a planned meeting, please just grab me and I'll get straight on to it!
 
-That being said, if I've forgotten that we have a meeting or I promised to help or do something, please grab me!
-
-I like direct communication, so feel free to ask me the question you want to find out the answer to, and I'll do my best to get back to you immediately.
+In terms of actual communication, I'm a fan of gentle bluntness - it's a very Yorkshire way of doing things. If you can be direct and polite about something I generally much prefer it. I also tend to practice what I preach, so if I am being a bit too direct feel free to tell me and I'll make sure I dial it down.
 
 ## The ways I like to receive feedback
 
-I like to receive feedback through organised sessions, 1-to-1s, and candid, frequent feedback as soon as possible. I have many known areas to improve, and even more blind spots yet undiscovered, so all feedback is beneficial.
-
-When pairing, I may sometimes ask for something to receive feedback on by the end of the session, since I've found it useful to have the partner focus on individual improvement points alongside identifying potential blind spots.
+I'm just starting out in the digital development industry so I've got lots to learn and lots of blind spots. Frequent feedback as close to the time as possible is generally my preferred method but I'm also very open to new ways of doing things! If you think there's a good way to give me feedback that I'm probably not aware of, please let me know and we can try it out.
 
 ## Things I need
 
-I need time to wake up in the morning. I've noticed that I get better work done (and am nicer to work with!) when I have some time to look over emails, get some personal admin done and adjust to starting the day.
-This normally takes around 15 to 30 minutes, which I'll normally spend with a coffee and before my day properly starts.
+Despite possible appearances, I'm an introvert and having time to recharge between extroverted activities - pair programming, meetings, stand ups etc. - really helps me to make it through the week without feeling burnt out or stressed. A key indicator of this is if I move from verbal floods to short sentences within a short period of time. 
+All it takes is a cup of tea and 5 minutes breathing space and I'm back to normal.
 
-Equally, sometimes I need time to recharge. This may be over lunch, or a short break between pairing sessions. My social batteries can deplete quite quickly, so I have to keep an eye on them!
-
-To optimise my learning, I need to do it the right way for my brain to absorb it. My [VARK](https://www.mindtools.com/pages/article/vak-learning-styles.htm) learning tool preference is as follows:
+My [VARK](https://www.mindtools.com/pages/article/vak-learning-styles.htm) learning tool preference is as follows:
 
 1. Kinesthetic (hands-on)
-2. Visual (diagrams)
-3. Reading & Writing
-4. Auditory
+2. Reading & Writing
+3. Auditory
+4. Visual (diagrams)
 
-This is of course not always possible, but I love to be able to get hands-on with "stuff" in order to learn it.
+I know that this isn't always possible, but it's always useful to know in case an option is available!
+
 
 ## Things I struggle with
 
-I have real issues with my memory, and can be embarrassed when I forget things.
-So if I forget your name, a concept you absolutely nailed an explanation of to me moments before or a piece of information I was meant to remember, I'm really sorry, and I'm working on it!
+I'm terrible with names, so I'm really sorry if I forget yours. I promise I know _who_ you are, just not what to call you. If I look like I'm struggling with a name, please be kind and help me out! It saves me from the eternally British fear of social embarrassment.
 
-With that in mind, I can also struggle with my focus. Since I get worried I'll forget tasks when they pop into my head, I'll try to immediately complete them when I think of them.
-The cost of this is often switching between tasks at a lightning-pace, which can become frustrating at times, especially with pair partners. Something I do this in meetings, other times when pairing.
+On that same note, having to stand up and introduce myself to a room alongside a fact about myself is easily one of my biggest fears. If I can introduce myself to people one-to-one or in a small group I'd much prefer it. 
 
-If you see me doing this, please feel free and comfortable to call me out on it, even by simply saying "Stephen, you're doing the thing again." I'm not always great at seeing the impact it has on others, and will appreciate you giving me a heads up.
+I worry I'll forget tasks or ideas when they occur to me, so I'll try to immediately complete them or talk about them when I think of them. This might mean that I'm switching topics or task quickly. If you notice me doing this and it's frustrating you, feel fully comfortable in calling me out on this. I try to carry a notepad and pen with me now so that I can write these things down. I just might need reminding to do that.
+
+Whilst I'm not deaf, I do struggle a lot with background noise. If we're having a meeting or a social occasion somewhere like a pub or a loud restaurant, I'll probably look a bit vacant. I'm not being rude I just really can't hear you and I'm yet to find a solution other than going somewhere quieter. It's something I'm trying to figure out and I'll update this if I find a better way through it.
 
 ## Things I love
 
-I love using analogies to explain complexity! If you'd like to explain something to me in conversation, I respond _very_ well to analogies. Make it as real-world as possible, especially if it tackles high-level ideas.
+I like putting things in the bigger picture. Working on a project in isolation is less interesting to me than seeing it as part of a whole. It also helps me to join the dots between it and the other work that is going on. 
 
-I love getting stuff done. I like to build quickly and get something working, then iterate. Working in an environment where this is possible - but more importantly, psychologically safe - makes me very happy!
+A supportive work culture is great. I like to try and support other people where I can, and like to be supported as well. This also applies to supporting people in feeling comfortable at work. I'm trying really hard to check my privilege and if there's anything I can do around that flag it up to me straight away!
 
-When confident enough with a domain, I love sharing knowledge. I enjoy hosting learning sessions, and have a few techniques to make learning more interactive and fun for the participants.
 
 ## How I respond to stress
 
-When I get stressed, I often tend to go a bit inwards. Normally, this takes the form of me going quiet, and shortening my responses.
+When I get stressed, I often tend to turn inwards emerging to occasionally dump information or ramble about something.
 
-If you notice me doing this, best thing to do would be to give me some time to de-stress and breathe, and I'll be back at it in no time!
+If this happens, 5 minutes breathing space and possible a cup of tea (Is a pattern emerging yet?) will help me to get back to a healthy working level.
 
 
 ## Other things to know about me
 
-I'm from Montreal, Canada, and have lived in Surrey, Bristol, Sheffield and London since moving to the UK at the age of 11. Despite having spent longer in the UK than Canada, I am still a very passionate Canuck with a fairly strong accent.
+I'm from Yorkshire and as a result have an accent that can be difficult to parse. I'm very proud of my background but at the same time, if you can't understand what I'm saying don't hesitate to ask me to repeat something in a more understandable way. Tea wise however, Yorkshire is the only way.
 
-I'll talk your ear off about video games, music technology and _some_ sports. I like to keep active, and have recently become hooked on bouldering...I'm always looking for people to join in, and try and go at least twice a week.
+I like creative outlets and in my spare time I do a lot of writing, as well as hosting a [podcast about The Umbrella Academy TV show](https://brollybuddies.podbean.com/) with my fiancee. I also have plans for a second podcast based around nostalgia, so if you're interested in either of those things let me know! 
 
-Despite best efforts to appear extroverted, I am an introvert at heart, and can be overwhelmed or exhausted by social interaction overload.
