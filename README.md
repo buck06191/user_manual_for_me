@@ -19,7 +19,7 @@ I try not to look at or answer e-mails outside of working hours so that I can ma
 
 ## The best ways to communicate with me
 
-If I'm deep in a code hole, probably with my noise-cancelling headphones on, it's worth dropping me a message if you want to chat, mainly so I can drag myself out of the hole and re-adjust which I'll really appreicate. If it's an urgent request or I've forgotten about a planned meeting, please just grab me and I'll get straight on to it!
+If I'm deep in a code hole, probably with my noise-cancelling headphones on, it's worth dropping me a message if you want to chat, mainly so I can drag myself out of the hole and re-adjust which I'll really appreciate. If it's an urgent request or I've forgotten about a planned meeting, please just grab me and I'll get straight on to it!
 
 In terms of actual communication, I'm a fan of gentle bluntness - it's a very Yorkshire way of doing things. If you can be direct and polite about something I generally much prefer it. I also tend to practice what I preach, so if I am being a bit too direct feel free to tell me and I'll make sure I dial it down.
 
@@ -70,5 +70,5 @@ If this happens, 5 minutes breathing space and possible a cup of tea (Is a patte
 
 I'm from Yorkshire and as a result have an accent that can be difficult to parse. I'm very proud of my background but at the same time, if you can't understand what I'm saying don't hesitate to ask me to repeat something in a more understandable way. Tea wise however, Yorkshire is the only way.
 
-I like creative outlets and in my spare time I do a lot of writing, as well as hosting a [podcast about The Umbrella Academy TV show](https://brollybuddies.podbean.com/) with my fiancee. I also have plans for a second podcast based around nostalgia, so if you're interested in either of those things let me know! 
+I like creative outlets and in my spare time I do a lot of writing, as well as hosting a [podcast about The Umbrella Academy TV show](https://brollybuddies.podbean.com/) with my fiancee.
 
