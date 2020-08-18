@@ -70,5 +70,5 @@ If this happens, 5 minutes breathing space and possible a cup of tea (Is a patte
 
 I'm from Yorkshire and as a result have an accent that can be difficult to parse. I'm very proud of my background but at the same time, if you can't understand what I'm saying don't hesitate to ask me to repeat something in a more understandable way. Tea wise however, Yorkshire is the only way.
 
-I like creative outlets and in my spare time I do a lot of writing, as well as hosting a [podcast about The Umbrella Academy TV show](https://brollybuddies.podbean.com/) with my fiancee.
+I like creative outlets and in my spare time I do a lot of writing, as well as hosting a [podcast about The Umbrella Academy TV show](https://anchor.fm./brolly-buddies) with my fiancee.
 
